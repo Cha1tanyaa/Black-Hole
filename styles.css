@@ -1,0 +1,32 @@
+#info {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    z-index: 100;
+    background: rgba(0,0,0,0.7);
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 280px;
+    backdrop-filter: blur(5px);
+    pointer-events: none;
+}
+
+#info h1 {
+    margin: 0 0 8px 0;
+    font-size: 1.4em;
+    color: #4CAF50;
+}
+
+#info p {
+    margin: 6px 0;
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+
+#fpsCounter {
+    color: #FFC107;
+    font-weight: 600;
+    font-family: 'Courier New', monospace;
+}
