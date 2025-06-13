@@ -30,7 +30,7 @@
 ### Installation & Run
 1. Clone this repo:
    ```sh
-   git clone https://https://github.com/Cha1tanyaa/Black-Hole.git
+   git clone https://github.com/Cha1tanyaa/Black-Hole.git
    cd Computergraphik
    ```
 2. Start a local server:
