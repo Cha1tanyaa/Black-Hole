@@ -11,6 +11,9 @@
 - High-precision GLSL shaders ([shader.vert](shaders/shader.vert) & [shader.frag](shaders/shader.frag))  
 - Responsive canvas resize & FPS counter ([styles.css])
 
+## 📖 Documentation
+For a more in-depth explanation of the project, including details on the implementation, shaders, and features, please refer to the [Documentation.pdf](Documentation.pdf).
+
 ## Screenshots
 ![Screenshot](assets/demo.png)  
 *Use your mouse to distort the black hole in real time!* 
